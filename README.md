@@ -29,7 +29,7 @@ go had nothing. this fills that gap with:
 - benchmarks and performance metrics
 - production-ready code
 
-built for accurate project discovery in thor, where well-connected communities matter for identifying real projects vs random groupings.
+built for accurate project discovery in dense enterprise data, where well-connected communities matter for identifying real projects vs random groupings.
 
 ## installation
 
