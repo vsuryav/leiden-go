@@ -34,7 +34,7 @@ built for accurate project discovery in dense enterprise data, where well-connec
 ## installation
 
 ```bash
-go get github.com/villagelabsco/leiden-go
+go get github.com/vsuryav/leiden-go
 ```
 
 ## usage
@@ -44,7 +44,7 @@ package main
 
 import (
     "fmt"
-    "github.com/villagelabsco/leiden-go"
+    "github.com/vsuryav/leiden-go"
 )
 
 func main() {
