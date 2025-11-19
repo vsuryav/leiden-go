@@ -214,6 +214,4 @@ contributions welcome! please:
 
 ## author
 
-surya vanka (vsuryav@gmail.com)
-
-developed for the thor project at village labs.
+surya v (vsuryav@gmail.com)
