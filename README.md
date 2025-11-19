@@ -14,6 +14,23 @@ leiden is a community detection algorithm that improves upon the popular louvain
 
 published in [Scientific Reports (2019)](https://www.nature.com/articles/s41598-019-41695-z)
 
+## why this package exists
+
+no production-ready leiden implementation exists for go. existing community detection in go is limited to basic louvain implementations without proper testing or documentation.
+
+other ecosystems have leiden:
+- python: leidenalg package
+- c/c++: igraph library
+- r: leiden package
+
+go had nothing. this fills that gap with:
+- complete leiden algorithm with refinement phase
+- comprehensive test suite
+- benchmarks and performance metrics
+- production-ready code
+
+built for accurate project discovery in thor, where well-connected communities matter for identifying real projects vs random groupings.
+
 ## installation
 
 ```bash
