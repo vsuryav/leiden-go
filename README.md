@@ -1,6 +1,6 @@
 # leiden-go
 
-high-quality community detection for go using the leiden algorithm.
+community detection for go using the leiden algorithm.
 
 ## what is leiden?
 
