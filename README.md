@@ -182,7 +182,7 @@ the implementation is validated against:
 - document clustering
 - protein interaction networks
 - recommendation systems
-- project discovery (original use case in thor)
+- project discovery in dense enterprise data
 
 ## comparison with other algorithms
 
