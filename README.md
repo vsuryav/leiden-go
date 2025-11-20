@@ -1,6 +1,6 @@
 # leiden-go
 
-community detection for go using the leiden algorithm.
+community detection in golang using the leiden algorithm.
 
 ## what is leiden?
 
